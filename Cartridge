@@ -1,16 +1,22 @@
-# runtime
+# first-class
+github.com/onsi-experimental/executor origin/master
+github.com/onsi-experimental/garden origin/master
+github.com/onsi-experimental/runtime-schema origin/master
+
+github.com/cloudfoundry/storeadapter origin/master
+github.com/vito/gordon origin/master
+
+# dependencies
 bitbucket.org/kardianos/osext tip
 code.google.com/p/gogoprotobuf/protoc-gen-gogo origin/master
 code.google.com/p/gogoprotobuf/proto origin/master
 github.com/cloudfoundry-incubator/runtime-schema origin/master
 github.com/cloudfoundry/gunk origin/master
-github.com/cloudfoundry/storeadapter origin/master
 github.com/coreos/go-etcd/etcd origin/master
 github.com/coreos/go-log/log origin/master
 github.com/coreos/go-systemd origin/master
 github.com/nu7hatch/gouuid origin/master
 github.com/samuel/go-zookeeper/zk origin/master
-github.com/vito/gordon origin/master
 
 # tests
 github.com/onsi/ginkgo origin/master
