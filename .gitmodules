@@ -1,0 +1,6 @@
+[submodule "gold-cartridge"]
+	path = gold-cartridge
+	url = https://github.com/onsi-experimental/gold-cartridge
+[submodule "src/github.com/vito/gocart"]
+	path = src/github.com/vito/gocart
+	url = https://github.com/vito/gocart
