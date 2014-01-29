@@ -1,5 +1,9 @@
 #!/bin/bash
 
+go install github.com/gocart/vito
+
+gocart
+
 mkdir -p $GOPATH/bin
 pushd $GOPATH/src/github.com/coreos/etcd
 ./build
