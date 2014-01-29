@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git submodule update --init
+
 go install github.com/gocart/vito
 
 gocart
